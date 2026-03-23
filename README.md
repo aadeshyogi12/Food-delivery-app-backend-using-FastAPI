@@ -54,6 +54,7 @@ This project simulates a real-world **food delivery application** with menu mana
 * FastAPI
 * Pydantic
 * Uvicorn
+* Swagger UI
 
 ---
 
